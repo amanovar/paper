@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home Page -->
+  <url>
+    <loc>https://amanovar.github.io/paper/index.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Question Paper Gallery Page -->
+  <url>
+    <loc>https://amanovar.github.io/paper/bca-question-paper.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- DBMS Images -->
+  <url>
+    <loc>https://amanovar.github.io/paper/WhatsApp%20Image%202025-12-09%20at%2008.53.33_6b707a35.jpg</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://amanovar.github.io/paper/WhatsApp%20Image%202025-12-09%20at%2008.53.33_39aa9083.jpg</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://amanovar.github.io/paper/WhatsApp%20Image%202025-12-09%20at%2008.53.33_ffdfbbd6.jpg</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- CN Images -->
+  <url>
+    <loc>https://amanovar.github.io/paper/cn1.jpg</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://amanovar.github.io/paper/cn2.jpg</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://amanovar.github.io/paper/cn3.jpg</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Java Images -->
+  <url>
+    <loc>https://amanovar.github.io/paper/java1.jpg</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://amanovar.github.io/paper/java2.jpg</loc>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
